@@ -1,0 +1,10 @@
+
+
+Url: http://localhost:3000/sumar
+
+Postman:
+
+{
+  "num1": 5,
+  "num2": 10
+}

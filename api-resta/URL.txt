@@ -1,0 +1,10 @@
+
+
+Url: http://localhost:3000/resta
+
+Postman: 
+
+{
+  "num1": 2,
+  "num2": 1
+}
